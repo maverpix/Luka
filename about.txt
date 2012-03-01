@@ -1,0 +1,5 @@
+Theme name:    Luka
+Description:   A Rework of the Greaves Theme by Russell Jones www.thefennec.co.uk
+Author name:   maverpix
+Author site:   www.maverpix.com
+License:       CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
