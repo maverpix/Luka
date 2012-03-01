@@ -1,1 +1,15 @@
-Hello World!
+Luka Theme for Anchor CMS
+=========================
+
+A fully responsive theme adapted from the Greaves theme by Russell Jones
+
+Added ZURB Orbit Slider: http://foundation.zurb.com/docs/orbit.php
+
+Added responsive video embedding
+
+If you're embedding video from YouTube, Vimeo, or another site that uses iframe, 
+embed or object elements you can wrap your video in div.flex-video to create an 
+intrinsic ratio that will properly scale your video on any device.
+
+Added some other ZURB goodies,changed font to Exo
+
